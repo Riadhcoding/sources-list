@@ -1,0 +1,9 @@
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+
+# YOur Sources List  Update By Python Life 
+# wwww.youtube.com/c/python.life 
+
