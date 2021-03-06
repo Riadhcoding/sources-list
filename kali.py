@@ -5,7 +5,7 @@ def clear():
 
 clear()
 print ('\033[1;31m{1}\033[1;32m solved  sources list')
-print ('\003[1;31m{2}\033[1;32m Find Me in instagram')
+print ('\033[1;31m{2}\033[1;32m Find Me in instagram')
 ask = int(input ('\033[1;31m{?}\033[1;36m Choose : '))
 
 if ask == 1:
